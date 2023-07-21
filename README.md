@@ -1,6 +1,6 @@
 # 运行*.sh文件
 
-#### window电脑请使用 git bash 命令行工具运行
+#### window电脑请使用 Git Bash 命令行工具运行
 
 `bash ./movefile.sh ./A ./B`
 
